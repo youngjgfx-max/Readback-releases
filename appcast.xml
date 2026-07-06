@@ -9,6 +9,11 @@
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.6/Readback-1.6.dmg" length="1309040" type="application/octet-stream" sparkle:edSignature="Q8i9BkE//MWQ/TUoaqydw/waSL36xmMV+p12i6KH4La+x1TKRJ0CGzDql5HPL27i+R7xBnqVVa7nMeDinTwbCw=="/>
+            <description><![CDATA[<h2>Novedades en Readback 1.6</h2>
+<ul>
+  <li>Corregido de raíz: el aviso de "hay una nueva versión" quedaba tapado por la ventana de Ajustes cuando buscabas actualizaciones desde ahí. Ahora Ajustes se cierra correctamente antes de mostrar el aviso, así que siempre lo vas a ver.</li>
+</ul>
+]]></description>
         </item>
         <item>
             <title>1.5</title>
