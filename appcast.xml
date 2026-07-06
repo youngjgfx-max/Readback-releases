@@ -9,6 +9,13 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.2/Readback-1.2.dmg" length="1305912" type="application/octet-stream" sparkle:edSignature="CN1c9LCkTrwjldeY0c1zWGH2AQBO46/QRumMwbpoKD8CYS6Fbfo5p6gpMqPeiWeMMbFNLMByoNgTNv2MKdnTBw=="/>
+            <description><![CDATA[<h2>Novedades en Readback 1.2</h2>
+<ul>
+  <li>Ahora Readback aparece en el <strong>Dock</strong> y abre su panel automáticamente al iniciar — ya no depende solo del ícono de la barra de menú.</li>
+  <li>Corregido un problema que impedía abrir la app recién instalada en algunos Mac.</li>
+  <li>Pequeñas mejoras internas para las actualizaciones automáticas.</li>
+</ul>
+]]></description>
         </item>
         <item>
             <title>1.1</title>
