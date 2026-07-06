@@ -3,6 +3,14 @@
     <channel>
         <title>Readback</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Mon, 06 Jul 2026 12:39:34 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.6/Readback-1.6.dmg" length="1309040" type="application/octet-stream" sparkle:edSignature="Q8i9BkE//MWQ/TUoaqydw/waSL36xmMV+p12i6KH4La+x1TKRJ0CGzDql5HPL27i+R7xBnqVVa7nMeDinTwbCw=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Mon, 06 Jul 2026 12:31:52 -0500</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -28,19 +36,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.4/Readback-1.4.dmg" length="1307904" type="application/octet-stream" sparkle:edSignature="TZ2e14mJmKscuuoU9c+4RpEw5n3MgKTLwwTthhqMWb/qJl6nxxdj1/LBJu9vgQmLAmK3eunVeC7G4ixwuUoWAA=="/>
-        </item>
-        <item>
-            <title>1.3</title>
-            <pubDate>Mon, 06 Jul 2026 11:37:04 -0500</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Novedades en Readback 1.3</h2>
-<ul>
-  <li>Corregido: la ventana de "hay una actualización disponible" se abría <strong>detrás</strong> del panel de Readback y nunca se veía. Ahora el panel se oculta un momento para que puedas verla y decidir si instalar.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.3/Readback-1.3.dmg" length="1307035" type="application/octet-stream" sparkle:edSignature="x0Y9H67vNCZD9SMMNVpkaJfKNM5U6oaZomVEExtgcD50aILVDtPc4FpBAKEa3vWktbvjNhDJcDPR6RZCd+dMAA=="/>
         </item>
     </channel>
 </rss>
