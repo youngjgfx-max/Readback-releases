@@ -3,6 +3,14 @@
     <channel>
         <title>Readback</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Mon, 06 Jul 2026 10:55:50 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.2/Readback-1.2.dmg" length="1305912" type="application/octet-stream" sparkle:edSignature="CN1c9LCkTrwjldeY0c1zWGH2AQBO46/QRumMwbpoKD8CYS6Fbfo5p6gpMqPeiWeMMbFNLMByoNgTNv2MKdnTBw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 06 Jul 2026 10:37:17 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
