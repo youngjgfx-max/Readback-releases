@@ -3,12 +3,33 @@
     <channel>
         <title>Readback</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Mon, 06 Jul 2026 19:34:39 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Novedades en Readback 1.7</h2>
+<ul>
+  <li><strong>Nuevo: silencia el audio de fondo mientras lee.</strong> Si tienes música, un video de YouTube o cualquier otra cosa sonando, Readback la pausa automáticamente en cuanto empieza a leer (⌥Espacio o ⌥R) y la reanuda sola al terminar — igual que hace Wispr Flow al dictar.</li>
+  <li>Logo del encabezado ahora se adapta a modo claro/oscuro — antes el texto se veía negro sobre fondo oscuro y era ilegible.</li>
+  <li>Corregida la detección automática de idioma en lectura rápida (⌥R): antes, con textos cortos o mezclados (nombres o términos en inglés dentro de un texto en español), a veces no detectaba bien y se quedaba leyendo en inglés por defecto.</li>
+  <li><strong>Nuevo: clic para saltar también con voz en la nube.</strong> Antes solo funcionaba con la voz del sistema — ahora puedes hacer clic en cualquier palabra durante la lectura, sin importar qué voz estés usando, y siga leyendo desde ahí.</li>
+  <li>Corregido: el clic para saltar a veces leía la palabra equivocada (una línea más abajo de donde hacías clic).</li>
+  <li>El cursor ahora muestra la manita al pasar sobre el texto mientras lee, en vez del cursor de edición de texto.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.7/Readback-1.7.dmg" length="1361175" type="application/octet-stream" sparkle:edSignature="c0dAfaT2Kypo+9PL35qf4oqhAcDlhCu5ogvqQyjg2RFR8E4sEXNF1gNk2fL3ICM2T/SgUStjr2uck0ZXYt6mCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.7/Readback8-7.delta" sparkle:deltaFrom="7" length="94374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q/kv5F4Va54Bjuh8Ars/snEnUe13Xqske5pr++pDNXuzswqe3aHnhu9fe1N2mFnt/MO6MqEc3vFwBCxmkG1fBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Mon, 06 Jul 2026 12:39:34 -0500</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.6/Readback-1.6.dmg" length="1309040" type="application/octet-stream" sparkle:edSignature="Q8i9BkE//MWQ/TUoaqydw/waSL36xmMV+p12i6KH4La+x1TKRJ0CGzDql5HPL27i+R7xBnqVVa7nMeDinTwbCw=="/>
+            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.6/Readback-1.6.dmg" length="1297211" type="application/octet-stream" sparkle:edSignature="1jD/iXQpKesj+oCTpLlqpNx/pQYrweLXSw7AMnjdSqlN/ayPmm1Gn05slsDb56kBjXwIzu5L6j4b2KtpuxiSAg=="/>
             <description><![CDATA[<h2>Novedades en Readback 1.6</h2>
 <ul>
   <li>Corregido de raíz: el aviso de "hay una nueva versión" quedaba tapado por la ventana de Ajustes cuando buscabas actualizaciones desde ahí. Ahora Ajustes se cierra correctamente antes de mostrar el aviso, así que siempre lo vas a ver.</li>
@@ -27,20 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.5/Readback-1.5.dmg" length="1309050" type="application/octet-stream" sparkle:edSignature="gNXhK7XyesDdavcBF7DY8CPZk0D9ZDXcPQ+lmUuHrfMk8qU6LIXkptqrbnzGaiZlXeD5mDhQm2P11qGg22ZcDw=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Mon, 06 Jul 2026 11:54:22 -0500</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Novedades en Readback 1.4</h2>
-<ul>
-  <li>Corregido: el aviso de actualización volvía a taparse casi al instante al reabrirse el panel solo. Ahora, si escondes el panel para ver el aviso, se queda escondido — lo recuperas con ⌥Espacio, el Dock o el ícono de la barra de menú cuando quieras.</li>
-  <li>El panel ahora se cierra automáticamente al hacer clic fuera de él, como un popover — ya no queda abierto de forma persistente por accidente.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.4/Readback-1.4.dmg" length="1307904" type="application/octet-stream" sparkle:edSignature="TZ2e14mJmKscuuoU9c+4RpEw5n3MgKTLwwTthhqMWb/qJl6nxxdj1/LBJu9vgQmLAmK3eunVeC7G4ixwuUoWAA=="/>
         </item>
     </channel>
 </rss>
