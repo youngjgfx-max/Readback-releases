@@ -3,6 +3,28 @@
     <channel>
         <title>Readback</title>
         <item>
+            <title>1.8</title>
+            <pubDate>Wed, 08 Jul 2026 14:18:14 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Novedades en Readback 1.8</h2>
+<ul>
+  <li><strong>Leer o no emojis.</strong> Nueva opción en Ajustes → Reading preferences (apagada por defecto): con Readback puedes decidir si quieres que lea los emojis en voz alta o los omita.</li>
+  <li><strong>Leer o no símbolos de formato.</strong> Otra opción independiente: cuando está apagada (por defecto), Readback ignora símbolos de Markdown como <code>**negrita**</code>, <code>*itálica*</code>, <code>#</code> encabezados, citas y viñetas — lee el texto, no los símbolos.</li>
+  <li>Corregido: texto con símbolos sueltos pegados (como <code>&lt;</code> y <code>&gt;</code> en <code>Readback-&lt;version&gt;.dmg</code>) ya no produce cortes raros al leer.</li>
+  <li><strong>Cambio de voz al instante desde el pie de página.</strong> El nombre de la voz activa ahora es un menú desplegable — cámbiala sin abrir Ajustes.</li>
+  <li><strong>Catálogo de voces en la nube ampliado.</strong> De 5 a 26 voces neurales de Azure, con más acentos de español (México, España, Colombia, Argentina, EE. UU.) e inglés (EE. UU., Reino Unido, Australia, India, Canadá, Irlanda).</li>
+  <li>Corregido: la voz de la nube seleccionada ahora persiste correctamente entre reinicios, tanto en inglés como en español (antes solo se restauraba parcialmente).</li>
+  <li>Nuevo indicador "Readback · versión" en el pie de página — haz clic para buscar actualizaciones.</li>
+  <li><strong>Selector de idioma rediseñado.</strong> Pasó de banderas a una píldora "EN / ESP" con el azul de la marca — con animación al deslizar y también se puede arrastrar sosteniendo el clic, como un switch.</li>
+  <li>El mismo cambio de banderas a texto se aplicó también en la píldora de lectura rápida (⌥R).</li>
+  <li><strong>Aviso de actualización disponible.</strong> Un pequeño punto azul aparece sobre el ícono de Ajustes en cuanto Sparkle detecta una versión nueva — incluso antes de buscarla manualmente.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.8/Readback-1.8.dmg" length="1410617" type="application/octet-stream" sparkle:edSignature="1C/eVBuMNibLZM8c+Wj2JD6+4nnLQGqtcZp0XgI9Ihqv6PataBwQq/OBlnCy7LSAJdbEJPffquKS4qHGHUNQDA=="/>
+        </item>
+        <item>
             <title>1.7</title>
             <pubDate>Mon, 06 Jul 2026 19:34:39 -0500</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -35,19 +57,6 @@
   <li>Corregido de raíz: el aviso de "hay una nueva versión" quedaba tapado por la ventana de Ajustes cuando buscabas actualizaciones desde ahí. Ahora Ajustes se cierra correctamente antes de mostrar el aviso, así que siempre lo vas a ver.</li>
 </ul>
 ]]></description>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Mon, 06 Jul 2026 12:31:52 -0500</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Novedades en Readback 1.5</h2>
-<ul>
-  <li>Refuerzo adicional para que el diálogo de actualizaciones nunca quede tapado: si abres "Buscar actualizaciones" desde Ajustes, esa ventana se cierra correctamente antes de mostrar el aviso.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/youngjgfx-max/Readback-releases/releases/download/v1.5/Readback-1.5.dmg" length="1309050" type="application/octet-stream" sparkle:edSignature="gNXhK7XyesDdavcBF7DY8CPZk0D9ZDXcPQ+lmUuHrfMk8qU6LIXkptqrbnzGaiZlXeD5mDhQm2P11qGg22ZcDw=="/>
         </item>
     </channel>
 </rss>
